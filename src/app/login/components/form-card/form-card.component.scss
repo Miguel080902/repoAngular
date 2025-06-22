@@ -58,7 +58,7 @@ $spacing-unit: 16px;
       font-weight: 700;
       color: $primary-color;
       margin-bottom: 8px;
-
+      justify-content: center;
       .login-icon {
         font-size: 32px; // Tamaño del icono del título
         width: 32px;
@@ -72,6 +72,7 @@ $spacing-unit: 16px;
       color: #777;
       text-align: center;
       line-height: 1.4;
+      margin: auto;
       max-width: 90%; // Limita el ancho para mejor legibilidad
     }
   }
